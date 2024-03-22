@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background-color: lightgrey;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.orange {
+  background-color: rgb(255, 153, 0);
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border-color: black;
+  border-style: solid;
+  margin: 10px;
+}
+
+.blue {
+  background-color: rgb(26, 26, 124);
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border-color: black;
+  border-style: solid;
+  margin: 10px;
+}
